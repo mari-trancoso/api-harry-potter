@@ -27,6 +27,7 @@ const HomePage = () => {
         <h1>
           OIIIIIIIIIIII
         </h1>
+        <p>Tentando mudar</p>
         <h2>Personagens</h2>
         {characters.map((character, index) => {
           if(index<25){
